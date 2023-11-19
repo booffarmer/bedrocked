@@ -1,9 +1,76 @@
-# Fabric Example Mod
+# To-Do
 
-## Setup
+## Movement
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+BoatFly
 
-## License
+ElytraFly
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+FastFall
+
+FastSwim
+
+Flight
+
+Jesus
+
+NoFall
+
+NoSlow
+
+Speed
+
+## Combat
+
+Aura
+
+AutoArmor
+
+AutoCrystal
+
+AutoObisidian
+
+AutoTotem
+
+AutoAim
+
+Crits
+
+## World
+
+AutoMine
+
+FastPlace
+
+MultiTask
+
+Nuker
+
+Scaffold
+
+Speedmine
+
+Wallhack
+
+## Render
+
+BreadCrumbs
+
+ESP
+
+Freecam
+
+Fullbright
+
+Nametags
+
+NoWeather
+
+Tracer
+
+Waypoint
+
+## Misc
+
+UI-Utils
+
